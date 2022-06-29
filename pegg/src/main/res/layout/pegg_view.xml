@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.edekee.pegg.PeggView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/peggView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true"
+    app:peggColor="@color/white"
+    app:peggLabel="@string/label"
+    android:forceDarkAllowed="false"
+    app:expandColor="#CC000000"
+    app:labelColor="@color/purple_200">
+
+</com.edekee.pegg.PeggView>
